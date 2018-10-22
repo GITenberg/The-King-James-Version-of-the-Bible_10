@@ -1,5 +1,5 @@
 _repo: The-King-James-Version-of-the-Bible_10
-_version: 0.2.3
+_version: 0.2.4
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -17,5 +17,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Bible'
 - !lcc 'BS'
+- GITenberg
 title: The King James Version of the Bible
 url: http://www.gutenberg.org/ebooks/10
